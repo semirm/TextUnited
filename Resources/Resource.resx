@@ -4685,4 +4685,16 @@ to handle most plain text and extracted content.</value>
   <data name="UsageLabel" xml:space="preserve">
     <value>Usage</value>
   </data>
+  <data name="AcceptLabel" xml:space="preserve">
+    <value>Accept</value>
+  </data>
+  <data name="JS_RejectMessage" xml:space="preserve">
+    <value>Are you sure you want to reject this offer?</value>
+  </data>
+  <data name="RejectLabel" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="JS_AcceptMessage" xml:space="preserve">
+    <value>Are you sure you want to accept this offer?</value>
+  </data>
 </root>
