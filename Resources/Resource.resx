@@ -448,7 +448,7 @@
     <value>Cancel changes</value>
   </data>
   <data name="CannotOrderFromFreelancers" xml:space="preserve">
-    <value>You cannot order translation from freelancers with the Personal plan.</value>
+    <value>You cannot order translation from freelance translators directly with your free Personal plan. &lt;a href="/account/subscription" target="_blank"&gt;Upgrade to a paid plan&lt;/a&gt; or choose another option above.</value>
   </data>
   <data name="CaseStudyLabel" xml:space="preserve">
     <value>Case Study</value>
@@ -1691,7 +1691,7 @@
     <value>Are you sure you want to finish this task?</value>
   </data>
   <data name="JS_FinishTaskProgress" xml:space="preserve">
-    <value>It is not yet completed (progress:</value>
+    <value>It does not seem to be completed.</value>
   </data>
   <data name="JS_FoundFileProjects" xml:space="preserve">
     <value>We found file(s) with that name in the following projects:</value>
@@ -2135,7 +2135,7 @@
     <value>Number of packages</value>
   </data>
   <data name="NumericMissmatch" xml:space="preserve">
-    <value>Numeric mismatch</value>
+    <value>Numbers don't match</value>
   </data>
   <data name="OfferAccepted" xml:space="preserve">
     <value>User {0} ({1}) has accepted your offer for project {2}.</value>
@@ -3221,7 +3221,7 @@ This message was created automatically and sent for information purpose only.</v
     <value>View profile</value>
   </data>
   <data name="WaitLongerMessage" xml:space="preserve">
-    <value>This might take a bit longer, please wait.</value>
+    <value>This might take a bit longer...</value>
   </data>
   <data name="WebsiteBlog" xml:space="preserve">
     <value>Blog</value>
@@ -3693,210 +3693,6 @@ the fastest translations possible!</value>
   </data>
   <data name="WebsiteRegisterLabel" xml:space="preserve">
     <value>Register</value>
-  </data>
-  <data name="WebsiteTermsOfUse" xml:space="preserve">
-    <value>&lt;p&gt;
-                This Agreement ("Agreement") is between you (either you as an individual or you on behalf of an entity that you have the authority to bind and represent) (“Licensee”) and Text United GmbH ("Text United").
-            &lt;/p&gt;&lt;p&gt;
-                The Agreement authorizes you to use the Text United Software ("Software") as specified below.
-            &lt;/p&gt;&lt;p&gt;
-                The "Effective date" for this Agreement shall be the earlier day of the Licensee registering on Text United website or clicking "I agree" when installing the Software.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                1. License and intellectual property rights
-            &lt;/h4&gt;
-            &lt;p&gt;
-                1.1 Text United grants to Licensee a personal, non-transferable, limited and non-exclusive right to access and use the Software (“License”).
-            &lt;/p&gt;
-            &lt;p&gt;
-                1.2 The License is granted solely to Licensee, and not, by implication or otherwise, to any parent, subsidiary or affiliate of Licensee.
-            &lt;/p&gt;
-            &lt;p&gt;
-                1.3 Text United reserves all rights not expressly granted to Licensee. Licensee shall not copy, distribute, reproduce, use or allow access to the Software, except as explicitly permitted under this Agreement. Licensee may not resell, sublicense, rent, lease, or lend the Software.
-            &lt;/p&gt;
-            &lt;p&gt;
-                1.4 Licensee shall not modify, adapt, translate, or prepare derivative works from the Software and, to the extent permitted by applicable law, shall not, decompile, reverse engineer, disassemble or otherwise attempt to derive their source code.
-            &lt;/p&gt;
-            &lt;p&gt;
-                1.5 Licensee shall not remove, obscure, or alter Text United's or its licensors’ copyright notices, trademarks, or other proprietary rights notices affixed to or contained within the Software.
-            &lt;/p&gt;
-            &lt;p&gt;
-                1.6 Licensee acknowledges and agrees that Text United (or its licensors) own all legal right, title, and interest in and to the Software (whether those rights happen to be registered or not, and wherever in the world those rights may exist). Unless Licensee has agreed otherwise in writing with Text United, nothing in this Agreement gives Licensee a right to use any of Text United's (or its licensors’) trade names, trademarks, service marks, logos, domain names and other distinctive brand features.
-            &lt;/p&gt;
-            &lt;p&gt;
-                1.7 The Software and all rights therein, without limitation (including title and intellectual property rights), are owned by Text United (or its licensors) and are protected by international treaty provisions
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                2. Access to the Software
-            &lt;/h4&gt;
-            &lt;p&gt;
-                2.1 In order to use the Software Licensee is required to register by providing certain information to Text United. Licensee underwrites that any information given to Text United is accurate, correct, and current.
-            &lt;/p&gt;
-            &lt;p&gt;
-                2.2 Licensee may access the Software through a combination of an e-mail address and a password (“Account”). The access is personal and may not be admitted to other persons.
-            &lt;/p&gt;
-            &lt;p&gt;
-                2.3 Licensee shall be entirely responsible for maintaining the confidentiality of the password for the Account assigned to Licensee. Licensee shall immediately notify Text United if a password is lost, stolen, disclosed to an unauthorized third party, or has otherwise been compromised. Licensee shall be solely responsible for any and all activities made under Licensee's Account.
-            &lt;/p&gt;
-            &lt;p&gt;
-                2.4 Licensee shall defend, indemnify and hold Text United harmless from and against all damages, penalties, costs and expenses (including reasonable attorney's fees) incurred by Text United in connection with any suit, claim or proceeding arising or resulting from Licensee's failure to comply with the terms of this Section 2.
-            &lt;/p&gt;
-            &lt;p&gt;
-                2.5 Text United maintains a high level of service uptime. However, from time to time the Software may become unavailable and Text United reserves the right to interrupt the services to perform emergency maintenance as needed.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                3. Subscription Plans
-            &lt;/h4&gt;
-            &lt;p&gt;
-                3.1 In the event Licensee wishes to use the Software in scope which exceeds the limitations of a free edition, Licensee must subscribe by choosing among available subscriptions (“Subscription Plans”) which features and costs are described on Text United’s websites.
-            &lt;/p&gt;
-            &lt;p&gt;
-                3.2 Licensee agrees to pay to Text United subscription fees and any other charges (including any applicable taxes) incurred in connection with the chosen Subscription Plan(s) at the rates in effect when the Subscription Plan(s) was/were chosen.
-            &lt;/p&gt;
-            &lt;p&gt;
-                3.3 Text United reserves the right to suspend Licensee’s access to the Software according to the Subscription Plan(s) if Licensee is late paying the fee for the Subscription Plan(s). Further, Text United is entitled to demand interest of 10 % p.a. for outstanding fees plus all expenses of collection. Licensee acknowledges that Text United is not obliged to retain Licensee’s Content and may delete all Content irretrievably if fees are outstanding for more than thirty days.
-            &lt;/p&gt;
-            &lt;p&gt;
-                3.4 The Subscription Plan will be automatically renewed on the date of its scheduled expiration for an identical term, but at the then-prevailing fee, unless Licensee or Text United terminates the Subscription Plan prior to the date that the Subscription Plan expires. Licensee must cancel his Subscription Plan before it renews in order to avoid fees for another term.
-            &lt;/p&gt;
-            &lt;p&gt;
-                3.5 Licensee and Text United may terminate the Subscription Plan with immediate effect at any time prior to the end of the intended term if the other party breaches any provision of this Agreement, including the failure to pay fees for the Subscription Plan when due. In addition, Text United may terminate the Subscription Plan at any time if Text United is required to do so by law.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                4. Licensee Obligations
-            &lt;/h4&gt;
-            &lt;p&gt;
-                4.1 Licensee represents and warrants that:
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.1.1 it shall provide accurate and complete information during the registration process and shall not falsely identify himself/herself or provide any false information to gain or to attempt to gain access to the Software;
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.1.2 it shall not gain or to attempt to gain unauthorized access to Text United’s servers, its telecommunication and security equipment and software;
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.1.3 it shall not take any actions for the purpose of manipulating or undermining the integrity and accuracy of translators’ ratings;
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.1.4 it shall not engage in any form of retrieval of data stored on Text United’s servers to create or compile, directly or indirectly, a collection, compilation, database or directory;
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.1.5 it shall not attempt to or actually circumvent any method used by Text United to control access to the Software, including, but not limited to, spoofing or otherwise impersonating an account or setting up a proxy or other device that allows others to access the Software through it; and
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.1.6 it shall only use the Software in a manner that complies with all applicable laws in the jurisdiction in which Licensee uses them, including, but not limited to, applicable restrictions concerning copyright and other intellectual property rights.
-            &lt;/p&gt;
-            &lt;p&gt;
-                4.2 In the event of any breach of any of the foregoing obligations, in addition to any other remedies available at law, Text United will have the right, in its sole reasonable discretion, to immediately terminate this Agreement.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                5. Warranty Disclaimer and Limitation of Liability
-            &lt;/h4&gt;
-            &lt;p&gt;
-                5.1 TEXT UNITED LICENSES THE SOFTWARE AND THE SUITE, INCLUDING ANY DOCUMENTATION THAT MAY ACCOMPANY TO A LICENSEE ON AN "AS IS" BASIS. TEXT UNITED MAKES NO WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TEXT UNITED DOES NOT WARRANT THAT THE SOFTWARE WILL OPERATE IN COMBINATIONS OTHER THAN AS SPECIFIED IN ANY ACCOMPANYING DOCUMENTATION OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
-            &lt;/p&gt;
-            &lt;p&gt;
-                5.2 IN NO EVENT WILL TEXT UNITED'S LIABILITY FOR ACTUAL DIRECT DAMAGES ARISING OUT OF THIS AGREEMENT OR THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE AMOUNT UP TO 50 EURO. IN NO EVENT WILL TEXT UNITED BE LIABLE TO LICENSEE OR ANY OTHER INDIVIDUAL OR ENTITY CONNECTED WITH LICENSEE FOR ANY LOST PROFITS, SALES, BUSINESS, DATA, COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE OF THE SOFTWARE OR OTHERWISE ARISING FROM THIS AGREEMENT, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. The parties agree that this Section 5.2 represents a reasonable allocation of risk.
-            &lt;/p&gt;
-            &lt;p&gt;
-                5.3 Licensee shall defend, indemnify and hold Text United and its licensors harmless against any claims, damages, liabilities, losses, costs, suits or expenditures incurred by Text United or its licensors as a result of any infringement or alleged infringement of intellectual property rights of a third party or otherwise caused by Licensee’s use or exploitation of the Software.
-            &lt;/p&gt;
-            &lt;p&gt;
-                5.4 This Agreement creates no obligations on the part of Text United other than as specifically set forth herein.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                6. Term and Termination
-            &lt;/h4&gt;
-            &lt;p&gt;
-                6.1 This Agreement commences on the Effective Date and is concluded for an indefinite period of time.
-            &lt;/p&gt;
-            &lt;p&gt;
-                6.2 Text United may, at any time, terminate this Agreement and/or terminate Licensee's access to the Software with 30 days advance notice. Text United may terminate this Agreement immediately if the Licensee fails to comply with any provision of this Agreement. In addition, Text United may terminate this Agreement immediately if Text United is required to do so by law.
-            &lt;/p&gt;
-            &lt;p&gt;
-                6.3 Upon the expiration or termination of this Agreement for any reason (1) all licenses granted hereunder automatically revert to Text United and Licensee will no longer have access to the Software; (2) Text United is entitled to remove all Licensee’s Content from Text United servers.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                7. Content
-            &lt;/h4&gt;
-            &lt;p&gt;
-                7.1 All Content (including translations) submitted by Licensee remains the sole property of Licensee (or its licensors).
-            &lt;/p&gt;
-            &lt;p&gt;
-                7.2 Licensee represents and warrants to Text United that all Content does not in whole or in part actually or potentially violate any applicable law or regulation or infringe or misappropriate any proprietary intellectual property of any person and that Licensee owns or has a right to use all of the Content in the manner in which the Content is used in connection with the Software.
-            &lt;/p&gt;
-            &lt;p&gt;
-                7.3 Text United will make all possible efforts to provide a backup mechanism for the Content. However, Licensee must keep a personal backup copy of the Content and Text United should not be held responsible of any loss of data or data corruption.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                8. Data Protection
-            &lt;/h4&gt;
-            &lt;p&gt;
-                8.1 Text United will observe all provisions of the Austrian Data Protection Act and the Telecommunications Act regarding personal data, and undertake all technical and organizational measures required to protect the data for which it is responsible.
-            &lt;/p&gt;
-            &lt;p&gt;
-                8.2 Text United is not obliged to verify the conformity of the Licensee’s data with the legal provisions for data protection. The Licensee is responsible for assuring the legality of the transfer of personal data to Text United.
-            &lt;/p&gt;
-            &lt;p&gt;
-                8.3 Text United will adopt all reasonable measures to protect the Licensee’s data stored on Text United’s servers against unauthorized access. Text United however is not liable if third parties illegally obtain access to the data and information.
-            &lt;/p&gt;
-            &lt;p&gt;&lt;/p&gt;
-            &lt;br /&gt;
-
-            &lt;h4&gt;
-                9. Miscellaneous
-            &lt;/h4&gt;
-            &lt;p&gt;
-                9.1 Licensee shall not assign any of its rights or delegate any of its obligations under this Agreement without the prior written consent of Text United. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their respective successors and permitted assigns.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.2 This Agreement is governed by the laws of Austria. All disputes arising from or relating to this Agreement shall be settled by a single arbitrator appointed by the Chamber of Commerce of Austria.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.3 The waiver by either party of a breach of any provision of this Agreement or the failure by either party to exercise any right hereunder shall not operate or be construed as a waiver of any subsequent breach of that right or as a waiver of any other right.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.4 This is the entire agreement between Text United and Licensee relating to the subject matter of this Agreement, and it supersedes any prior representations, written or oral, discussions, undertakings, end-user agreements, communications, or advertising relating to the Software.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.5 Text United reserves the right to change provisions of this Agreement from time to time.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.6 Should any provision of this Agreement be or become illegal or unenforceable, the remainder of this Agreement shall not be affected. These provisions are automatically replaced by valid and enforceable provisions which achieve the intended economic effect as closely as possible.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.7 Any feedback information from the Licensee shall be provided to Text United on a non-confidential basis and shall be considered property of Text United. By submitting any such information to Text United Licensee agrees to a no-charge assignment to Text United of all worldwide rights, title, and interest in copyrights and other intellectual property rights to the information.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.8 Additional terms and conditions may apply to purchasing of translation services. Licensee agrees to abide by such other terms and conditions.
-            &lt;/p&gt;
-            &lt;p&gt;
-                9.9 All notices should be delivered to: Text United GmbH, Attemsgasse 7 D20, 1220, Vienna, Austria.
-            &lt;/p&gt;</value>
   </data>
   <data name="WebsiteTermsOfUseTitle" xml:space="preserve">
     <value>Terms Of Use</value>
@@ -4412,7 +4208,7 @@ to handle most plain text and extracted content.</value>
     <value>Translations have been successfully generated for all selected projects.</value>
   </data>
   <data name="GenerateTranslationsDesc" xml:space="preserve">
-    <value>You are about to generate translated files, even if the translation process is not 100% finished. All old translations listed here will be lost. You cannot undo this action.
+    <value>You are about to generate translated files, even if the translation process is not 100% finished. Translations generated previously will be lost. You cannot undo this action.
                         &lt;br /&gt;&lt;br /&gt;
                         To continue, select languages and click the "Generate" button.</value>
   </data>
@@ -4606,7 +4402,7 @@ to handle most plain text and extracted content.</value>
     <value>&lt;strong&gt;There are only 3 things you need to know to translate with Text United:&lt;/strong&gt;&lt;hr class="hr-form-extended" /&gt;
 * To start translating, click in the top cell in the right column. System will automatically find all old translations that you can reuse (if any) and offer them right there.&lt;br/&gt;&lt;br/&gt;
 * After you get to the bottom of the page, click "Next package" button to open the next set of sentences.&lt;br/&gt;&lt;br/&gt;
-* When you finish the last package, go back to the Packages list and click FINISH. You don't have to do anything else :)</value>
+* When you finish the last package, go back to the Packages list and click FINISH. You don't have to do anything else, translated files will be created and delivered automatically. :)</value>
   </data>
   <data name="IntroModalTitleFTR" xml:space="preserve">
     <value>This is where translations are done.</value>
@@ -4615,7 +4411,7 @@ to handle most plain text and extracted content.</value>
     <value>&lt;strong&gt;There are only 3 things you need to know to do a language check with Text United:&lt;/strong&gt;&lt;hr class="hr-form-extended" /&gt;
 * To start checking the text, click in any cell that you want to edit and just enter your changes. &lt;br/&gt;&lt;br/&gt;
 * After you get to the bottom of the page, click "Next package" button to open the next set of sentences.&lt;br/&gt;&lt;br/&gt;
-* When you finish the last package, go back to the Packages list and click FINISH. You don't have to do anything else :)</value>
+* When you finish the last package, go back to the Packages list and click FINISH. You don't have to do anything else, all changes that you have made will be delivered automatically.</value>
   </data>
   <data name="ContactUs" xml:space="preserve">
     <value>Contact us</value>
@@ -4633,27 +4429,19 @@ to handle most plain text and extracted content.</value>
     <value>Non-profit organisations, schools and open-source projects are eligible for a free license.</value>
   </data>
   <data name="WebsiteDynamicContentDesc" xml:space="preserve">
-    <value>for websíte, software, app and document translation
-                        &lt;br /&gt;
-                        through integrations and automated version checks</value>
+    <value>for websíte, software, app and document translation through integrations and automated version checks</value>
   </data>
   <data name="WebsiteDynamicContentTitle" xml:space="preserve">
     <value>Automatically send dynamic content</value>
   </data>
   <data name="WebsiteNoProgrammingDesc" xml:space="preserve">
-    <value>Extract text from your code automatically,
-                        &lt;br /&gt;
-                        get translations and receive resource files
-                        &lt;br /&gt;
-                        ready for publishing!</value>
+    <value>Extract text from your code automatically, get translations and receive resource files ready for publishing!</value>
   </data>
   <data name="WebsiteNoProgrammingTitle" xml:space="preserve">
     <value>No programming required</value>
   </data>
   <data name="WebsiteTranslationConsistencyDesc" xml:space="preserve">
-    <value>check for repetitions and re-use old translation through
-                        &lt;br /&gt;
-                        translation memory and a company dictionary</value>
+    <value>check for repetitions and re-use old translations through translation memory and a company dictionary</value>
   </data>
   <data name="WebsiteTranslationConsistencyTitle" xml:space="preserve">
     <value>Ensure translation consistency</value>
@@ -4689,12 +4477,387 @@ to handle most plain text and extracted content.</value>
     <value>Accept</value>
   </data>
   <data name="JS_RejectMessage" xml:space="preserve">
-    <value>Are you sure you want to reject this offer?</value>
+    <value>Are you sure you want to reject this task?</value>
   </data>
   <data name="RejectLabel" xml:space="preserve">
     <value>Reject</value>
   </data>
   <data name="JS_AcceptMessage" xml:space="preserve">
-    <value>Are you sure you want to accept this offer?</value>
+    <value>Are you sure you want to accept this task?</value>
+  </data>
+  <data name="StartupsDesc1" xml:space="preserve">
+    <value>Are you programming multilingual apps or websites and are tired of constant reiterations due to changing  content and terminology?</value>
+  </data>
+  <data name="StartupsDesc2" xml:space="preserve">
+    <value>Integrate, get automated and simplify your work!</value>
+  </data>
+  <data name="StartupsTitle" xml:space="preserve">
+    <value>Translation for Startups</value>
+  </data>
+  <data name="CouponCodeLabelRequired" xml:space="preserve">
+    <value>Coupon code</value>
+  </data>
+  <data name="CouponCodeMessageRequired" xml:space="preserve">
+    <value>Please enter your coupon code</value>
+  </data>
+  <data name="FullNameMessageRequired" xml:space="preserve">
+    <value>Please enter your name</value>
+  </data>
+  <data name="FullNameLabelRequired" xml:space="preserve">
+    <value>Your full name</value>
+  </data>
+  <data name="StartupNameLabelRequired" xml:space="preserve">
+    <value>Your startup name</value>
+  </data>
+  <data name="StartupNameMessageRequired" xml:space="preserve">
+    <value>Please enter your startup name</value>
+  </data>
+  <data name="StartupRegisterLabel" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="AsSeenOn" xml:space="preserve">
+    <value>As seen on</value>
+  </data>
+  <data name="FreeTranslationForStartups" xml:space="preserve">
+    <value>Free translation for startups</value>
+  </data>
+  <data name="FreeTranslationForStartupsDesc" xml:space="preserve">
+    <value>Text United provides a year worth of the Business licence which amount to 
+&lt;strong&gt;$600 of supscription savings&lt;/strong&gt; and up to &lt;strong&gt;300 free words&lt;/strong&gt; translated monthly!</value>
+  </data>
+  <data name="FreeTranslationsForStartupDesc1" xml:space="preserve">
+    <value>Connect and import translation text from your apps, website, blog documentation</value>
+  </data>
+  <data name="FreeTranslationsForStartupDesc2" xml:space="preserve">
+    <value>Use one, simple translation dashboard to manage all your content</value>
+  </data>
+  <data name="FreeTranslationsForStartupDesc3" xml:space="preserve">
+    <value>Chaos-free management process that automates text matching, provides consistent vocabulary and monitors changes.</value>
+  </data>
+  <data name="HowToGetStarted" xml:space="preserve">
+    <value>How to get started</value>
+  </data>
+  <data name="CopyToClipboard" xml:space="preserve">
+    <value>Copy to clipboard</value>
+  </data>
+  <data name="HowToGetStartedDesc" xml:space="preserve">
+    <value>To use Text United free translation service make sure to apply and add your badge to your website. Simply copy the code to your clipboard and paste it in HTML of your sites footer!
+            &lt;br /&gt; &lt;br /&gt;
+            Your developer can do this in no time!</value>
+  </data>
+  <data name="JS_BadgeCopyMessage" xml:space="preserve">
+    <value>Badge successfully copied to clipboard.</value>
+  </data>
+  <data name="StartupRegistrationSuccess" xml:space="preserve">
+    <value>Your application has been received. We will verify your startup and contact you as soon as possible!</value>
+  </data>
+  <data name="StartupRegistrationEmailSubject" xml:space="preserve">
+    <value>Startup Registered</value>
+  </data>
+  <data name="CommentsEmpty" xml:space="preserve">
+    <value>Click on any sentence to add a new comment</value>
+  </data>
+  <data name="IntroModalFTRFirstTime" xml:space="preserve">
+    <value>&lt;strong&gt;There are only 3 things you need to know to translate with Text United:&lt;/strong&gt;&lt;hr class="hr-form-extended" /&gt;
+* To start translating, click in the top cell (in the right column). System will automatically save your translation so you can reuse it later, if you come across a similar sentence any time in the future.&lt;br/&gt;&lt;br/&gt;
+* After you get to the bottom of the page, click "Next package" button to open the next set of sentences.&lt;br/&gt;&lt;br/&gt;
+* When you finish the last package, go back to the Packages list and click FINISH. You don't have to do anything else, translated files will be created and delivered automatically. :)</value>
+  </data>
+  <data name="JS_EnterOrPasteText" xml:space="preserve">
+    <value>Enter or paste the text you want to translate:</value>
+  </data>
+  <data name="JS_SyncTextHint" xml:space="preserve">
+    <value>If there are no changes in your repository compared to the last sync, nothing will happen.</value>
+  </data>
+  <data name="JS_YourText" xml:space="preserve">
+    <value>Your text</value>
+  </data>
+  <data name="MiniEditorSubtitle" xml:space="preserve">
+    <value>It'll be fun and take less than 2 minutes.</value>
+  </data>
+  <data name="MiniEditorTitle" xml:space="preserve">
+    <value>Now's the time to see what makes &lt;br/&gt; Text United so special!</value>
+  </data>
+  <data name="SkipThis" xml:space="preserve">
+    <value>Skip this</value>
+  </data>
+  <data name="StartLabel" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="LiveProgress" xml:space="preserve">
+    <value>Live progress:</value>
+  </data>
+  <data name="LiveProgressDesc" xml:space="preserve">
+    <value>&lt;strong data-bind="text: progressPercentage"&gt;&lt;/strong&gt; of text has been translated</value>
+  </data>
+  <data name="MiniEditorGridDesc" xml:space="preserve">
+    <value>To see Text United in action, enter some translations into the empty cells below.</value>
+  </data>
+  <data name="GotIt" xml:space="preserve">
+    <value>OK, got it!</value>
+  </data>
+  <data name="MiniEditorConclusion" xml:space="preserve">
+    <value>Text United remembers your translations, no matter what the file type is. If you translate something today and get a similar document next year, our system will find the similarities and re-use the old translation.</value>
+  </data>
+  <data name="SourceText" xml:space="preserve">
+    <value>Source text</value>
+  </data>
+  <data name="TranslatedText" xml:space="preserve">
+    <value>Translated text</value>
+  </data>
+  <data name="AddCoworkerFriendLabel" xml:space="preserve">
+    <value>Add a co-worker/friend</value>
+  </data>
+  <data name="AddUserFriendDescription" xml:space="preserve">
+    <value>Invite a co-worker/friend to join Text United and help you with translation.</value>
+  </data>
+  <data name="JS_MatchLabel" xml:space="preserve">
+    <value>match</value>
+  </data>
+  <data name="TextUnitedDemo" xml:space="preserve">
+    <value>Text United Demo</value>
+  </data>
+  <data name="NumbersReplacedAutomatically" xml:space="preserve">
+    <value>Numbers replaced automatically</value>
+  </data>
+  <data name="SwitchAdminDesc" xml:space="preserve">
+    <value>If you make someone Administrator, s/he will be able to upgrade, downgrade or block users and change the company's subscription plan. You will not have those options anymore.</value>
+  </data>
+  <data name="WebsiteTermsOfUse" xml:space="preserve">
+    <value>&lt;p&gt;
+                This Agreement ("Agreement") is between you (either you as an individual or you on behalf of an entity that you have the authority to bind and represent) (“Licensee”) and Text United GmbH ("Text United").
+            &lt;/p&gt;&lt;p&gt;
+                The Agreement authorizes you to use the Text United Software ("Software") as specified below.
+            &lt;/p&gt;&lt;p&gt;
+                The "Effective date" for this Agreement shall be the earlier day of the Licensee registering on Text United website or clicking "I agree" when installing the Software.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                1. License and intellectual property rights
+            &lt;/h4&gt;
+            &lt;p&gt;
+                1.1 Text United grants to Licensee a personal, non-transferable, limited and non-exclusive right to access and use the Software (“License”).
+            &lt;/p&gt;
+            &lt;p&gt;
+                1.2 The License is granted solely to Licensee, and not, by implication or otherwise, to any parent, subsidiary or affiliate of Licensee.
+            &lt;/p&gt;
+            &lt;p&gt;
+                1.3 Text United reserves all rights not expressly granted to Licensee. Licensee shall not copy, distribute, reproduce, use or allow access to the Software, except as explicitly permitted under this Agreement. Licensee may not resell, sublicense, rent, lease, or lend the Software.
+            &lt;/p&gt;
+            &lt;p&gt;
+                1.4 Licensee shall not modify, adapt, translate, or prepare derivative works from the Software and, to the extent permitted by applicable law, shall not, decompile, reverse engineer, disassemble or otherwise attempt to derive their source code.
+            &lt;/p&gt;
+            &lt;p&gt;
+                1.5 Licensee shall not remove, obscure, or alter Text United's or its licensors’ copyright notices, trademarks, or other proprietary rights notices affixed to or contained within the Software.
+            &lt;/p&gt;
+            &lt;p&gt;
+                1.6 Licensee acknowledges and agrees that Text United (or its licensors) own all legal right, title, and interest in and to the Software (whether those rights happen to be registered or not, and wherever in the world those rights may exist). Unless Licensee has agreed otherwise in writing with Text United, nothing in this Agreement gives Licensee a right to use any of Text United's (or its licensors’) trade names, trademarks, service marks, logos, domain names and other distinctive brand features.
+            &lt;/p&gt;
+            &lt;p&gt;
+                1.7 The Software and all rights therein, without limitation (including title and intellectual property rights), are owned by Text United (or its licensors) and are protected by international treaty provisions
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                2. Access to the Software
+            &lt;/h4&gt;
+            &lt;p&gt;
+                2.1 In order to use the Software Licensee is required to register by providing certain information to Text United. Licensee underwrites that any information given to Text United is accurate, correct, and current.
+            &lt;/p&gt;
+            &lt;p&gt;
+                2.2 Licensee may access the Software through a combination of an e-mail address and a password (“Account”). The access is personal and may not be admitted to other persons.
+            &lt;/p&gt;
+            &lt;p&gt;
+                2.3 Licensee shall be entirely responsible for maintaining the confidentiality of the password for the Account assigned to Licensee. Licensee shall immediately notify Text United if a password is lost, stolen, disclosed to an unauthorized third party, or has otherwise been compromised. Licensee shall be solely responsible for any and all activities made under Licensee's Account.
+            &lt;/p&gt;
+            &lt;p&gt;
+                2.4 Licensee shall defend, indemnify and hold Text United harmless from and against all damages, penalties, costs and expenses (including reasonable attorney's fees) incurred by Text United in connection with any suit, claim or proceeding arising or resulting from Licensee's failure to comply with the terms of this Section 2.
+            &lt;/p&gt;
+            &lt;p&gt;
+                2.5 Text United maintains a high level of service uptime. However, from time to time the Software may become unavailable and Text United reserves the right to interrupt the services to perform emergency maintenance as needed.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                3. Subscription Plans
+            &lt;/h4&gt;
+            &lt;p&gt;
+                3.1 In the event Licensee wishes to use the Software in scope which exceeds the limitations of a free edition, Licensee must subscribe by choosing among available subscriptions (“Subscription Plans”) which features and costs are described on Text United’s websites.
+            &lt;/p&gt;
+            &lt;p&gt;
+                3.2 Licensee agrees to pay to Text United subscription fees and any other charges (including any applicable taxes) incurred in connection with the chosen Subscription Plan(s) at the rates in effect when the Subscription Plan(s) was/were chosen.
+            &lt;/p&gt;
+            &lt;p&gt;
+                3.3 Text United reserves the right to suspend Licensee’s access to the Software according to the Subscription Plan(s) if Licensee is late paying the fee for the Subscription Plan(s). Further, Text United is entitled to demand interest of 10 % p.a. for outstanding fees plus all expenses of collection. Licensee acknowledges that Text United is not obliged to retain Licensee’s Content and may delete all Content irretrievably if fees are outstanding for more than thirty days.
+            &lt;/p&gt;
+            &lt;p&gt;
+                3.4 The Subscription Plan will be automatically renewed on the date of its scheduled expiration for an identical term, but at the then-prevailing fee, unless Licensee or Text United terminates the Subscription Plan prior to the date that the Subscription Plan expires. Licensee must cancel his Subscription Plan before it renews in order to avoid fees for another term.
+            &lt;/p&gt;
+            &lt;p&gt;
+                3.5 Licensee and Text United may terminate the Subscription Plan with immediate effect at any time prior to the end of the intended term if the other party breaches any provision of this Agreement, including the failure to pay fees for the Subscription Plan when due. In addition, Text United may terminate the Subscription Plan at any time if Text United is required to do so by law.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                4. Licensee Obligations
+            &lt;/h4&gt;
+            &lt;p&gt;
+                4.1 Licensee represents and warrants that:
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.1.1 it shall provide accurate and complete information during the registration process and shall not falsely identify himself/herself or provide any false information to gain or to attempt to gain access to the Software;
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.1.2 it shall not gain or to attempt to gain unauthorized access to Text United’s servers, its telecommunication and security equipment and software;
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.1.3 it shall not take any actions for the purpose of manipulating or undermining the integrity and accuracy of translators’ ratings;
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.1.4 it shall not engage in any form of retrieval of data stored on Text United’s servers to create or compile, directly or indirectly, a collection, compilation, database or directory;
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.1.5 it shall not attempt to or actually circumvent any method used by Text United to control access to the Software, including, but not limited to, spoofing or otherwise impersonating an account or setting up a proxy or other device that allows others to access the Software through it; and
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.1.6 it shall only use the Software in a manner that complies with all applicable laws in the jurisdiction in which Licensee uses them, including, but not limited to, applicable restrictions concerning copyright and other intellectual property rights.
+            &lt;/p&gt;
+            &lt;p&gt;
+                4.2 In the event of any breach of any of the foregoing obligations, in addition to any other remedies available at law, Text United will have the right, in its sole reasonable discretion, to immediately terminate this Agreement.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                5. Warranty Disclaimer and Limitation of Liability
+            &lt;/h4&gt;
+            &lt;p&gt;
+                5.1 TEXT UNITED LICENSES THE SOFTWARE AND THE SUITE, INCLUDING ANY DOCUMENTATION THAT MAY ACCOMPANY TO A LICENSEE ON AN "AS IS" BASIS. TEXT UNITED MAKES NO WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TEXT UNITED DOES NOT WARRANT THAT THE SOFTWARE WILL OPERATE IN COMBINATIONS OTHER THAN AS SPECIFIED IN ANY ACCOMPANYING DOCUMENTATION OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+            &lt;/p&gt;
+            &lt;p&gt;
+                5.2 IN NO EVENT WILL TEXT UNITED'S LIABILITY FOR ACTUAL DIRECT DAMAGES ARISING OUT OF THIS AGREEMENT OR THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE AMOUNT UP TO 50 EURO. IN NO EVENT WILL TEXT UNITED BE LIABLE TO LICENSEE OR ANY OTHER INDIVIDUAL OR ENTITY CONNECTED WITH LICENSEE FOR ANY LOST PROFITS, SALES, BUSINESS, DATA, COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM THE USE OF THE SOFTWARE OR OTHERWISE ARISING FROM THIS AGREEMENT, AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. The parties agree that this Section 5.2 represents a reasonable allocation of risk.
+            &lt;/p&gt;
+            &lt;p&gt;
+                5.3 Licensee shall defend, indemnify and hold Text United and its licensors harmless against any claims, damages, liabilities, losses, costs, suits or expenditures incurred by Text United or its licensors as a result of any infringement or alleged infringement of intellectual property rights of a third party or otherwise caused by Licensee’s use or exploitation of the Software.
+            &lt;/p&gt;
+            &lt;p&gt;
+                5.4 This Agreement creates no obligations on the part of Text United other than as specifically set forth herein.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                6. Term and Termination
+            &lt;/h4&gt;
+            &lt;p&gt;
+                6.1 This Agreement commences on the Effective Date and is concluded for an indefinite period of time.
+            &lt;/p&gt;
+            &lt;p&gt;
+                6.2 Text United may, at any time, terminate this Agreement and/or terminate Licensee's access to the Software with 30 days advance notice. Text United may terminate this Agreement immediately if the Licensee fails to comply with any provision of this Agreement. In addition, Text United may terminate this Agreement immediately if Text United is required to do so by law.
+            &lt;/p&gt;
+            &lt;p&gt;
+                6.3 Upon the expiration or termination of this Agreement for any reason (1) all licenses granted hereunder automatically revert to Text United and Licensee will no longer have access to the Software; (2) Text United is entitled to remove all Licensee’s Content from Text United servers.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                7. Content
+            &lt;/h4&gt;
+            &lt;p&gt;
+                7.1 All Content (including translations) submitted by Licensee remains the sole property of Licensee (or its licensors).
+            &lt;/p&gt;
+            &lt;p&gt;
+                7.2 Licensee represents and warrants to Text United that all Content does not in whole or in part actually or potentially violate any applicable law or regulation or infringe or misappropriate any proprietary intellectual property of any person and that Licensee owns or has a right to use all of the Content in the manner in which the Content is used in connection with the Software.
+            &lt;/p&gt;
+            &lt;p&gt;
+                7.3 Text United will make all possible efforts to provide a backup mechanism for the Content. However, Licensee must keep a personal backup copy of the Content and Text United should not be held responsible of any loss of data or data corruption.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                8. Data Protection
+            &lt;/h4&gt;
+            &lt;p&gt;
+                8.1 Text United will observe all provisions of the Austrian Data Protection Act and the Telecommunications Act regarding personal data, and undertake all technical and organizational measures required to protect the data for which it is responsible.
+            &lt;/p&gt;
+            &lt;p&gt;
+                8.2 Text United is not obliged to verify the conformity of the Licensee’s data with the legal provisions for data protection. The Licensee is responsible for assuring the legality of the transfer of personal data to Text United.
+            &lt;/p&gt;
+            &lt;p&gt;
+                8.3 Text United will adopt all reasonable measures to protect the Licensee’s data stored on Text United’s servers against unauthorized access. Text United however is not liable if third parties illegally obtain access to the data and information.
+            &lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;h4&gt;
+                9. Miscellaneous
+            &lt;/h4&gt;
+            &lt;p&gt;
+                9.1 Licensee shall not assign any of its rights or delegate any of its obligations under this Agreement without the prior written consent of Text United. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.2 This Agreement is governed by the laws of Austria. All disputes arising from or relating to this Agreement shall be settled by a single arbitrator appointed by the Chamber of Commerce of Austria.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.3 The waiver by either party of a breach of any provision of this Agreement or the failure by either party to exercise any right hereunder shall not operate or be construed as a waiver of any subsequent breach of that right or as a waiver of any other right.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.4 This is the entire agreement between Text United and Licensee relating to the subject matter of this Agreement, and it supersedes any prior representations, written or oral, discussions, undertakings, end-user agreements, communications, or advertising relating to the Software.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.5 Text United reserves the right to change provisions of this Agreement from time to time.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.6 Should any provision of this Agreement be or become illegal or unenforceable, the remainder of this Agreement shall not be affected. These provisions are automatically replaced by valid and enforceable provisions which achieve the intended economic effect as closely as possible.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.7 Any feedback information from the Licensee shall be provided to Text United on a non-confidential basis and shall be considered property of Text United. By submitting any such information to Text United Licensee agrees to a no-charge assignment to Text United of all worldwide rights, title, and interest in copyrights and other intellectual property rights to the information.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.8 Additional terms and conditions may apply to purchasing of translation services. Licensee agrees to abide by such other terms and conditions.
+            &lt;/p&gt;
+            &lt;p&gt;
+                9.9 All notices should be delivered to: Text United GmbH, Attemsgasse 7 D20, 1220, Vienna, Austria.
+            &lt;/p&gt;</value>
+  </data>
+  <data name="AllTermsLabel" xml:space="preserve">
+    <value>ALL TERMS</value>
+  </data>
+  <data name="OnlyTranslatedLabel" xml:space="preserve">
+    <value>Only translated</value>
+  </data>
+  <data name="OnlyUntranslatedLabel" xml:space="preserve">
+    <value>Only untranslated</value>
+  </data>
+  <data name="LanguageLabel" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="TranslationSearchValidation" xml:space="preserve">
+    <value>Please enter at least three words or try &lt;a href="/search/terminology" class="show-progress"&gt;searching in the dictionary.&lt;/a&gt;</value>
+  </data>
+  <data name="SeeAllPlans" xml:space="preserve">
+    <value>See all plans</value>
+  </data>
+  <data name="UnreadableFilesFreelanceTranslatorWarning" xml:space="preserve">
+    <value>You have uploaded one or more files that freelance translators cannot translate directly (PDF, JPG, etc.). &lt;br/&gt;Please remove them or send the translation to Text United.</value>
+  </data>
+  <data name="JS_UseLinkToFind" xml:space="preserve">
+    <value>Use link on the right to find -&gt;</value>
+  </data>
+  <data name="JS_UseLinkToInvite" xml:space="preserve">
+    <value>Use link on the right to invite -&gt;</value>
+  </data>
+  <data name="JS_CloseTabWarning" xml:space="preserve">
+    <value>Analysis is still being done. Your translation project will be created as soon as you see the confirmation message here.</value>
+  </data>
+  <data name="JS_OpenTextUnited" xml:space="preserve">
+    <value>Open text United</value>
   </data>
 </root>
